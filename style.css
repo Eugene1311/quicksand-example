@@ -1,0 +1,22 @@
+ul{
+	list-style:none;
+	padding:0;
+}
+.row>li{
+	display: inline-block;
+	margin-right:20px;
+	vertical-align: top;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	color:blue;
+}
+.column>li{
+	display:block;
+}
+img{
+	vertical-align: bottom;
+}
